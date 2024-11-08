@@ -15,7 +15,7 @@ spec:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: MatthewBalmes
+  name: k8s-activity-MatthewBalmes
   labels:
     app: nginx
 spec:
